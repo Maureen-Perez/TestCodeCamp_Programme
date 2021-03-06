@@ -62,7 +62,7 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[2]/div/input", "xpath:idRelative"],
         ["xpath=//input", "xpath:position"]
       ],
-      "value": "maureen"
+      "value": "favour"
     }, {
       "id": "d791d6d4-4d5d-403f-8878-9116fa039e1d",
       "comment": "",
@@ -90,7 +90,7 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[3]/div/input", "xpath:idRelative"],
         ["xpath=//div[3]/div/input", "xpath:position"]
       ],
-      "value": "maureenupm@gmail.com"
+      "value": "favour@gmailcom"
     }, {
       "id": "60c56994-57aa-44ae-9ac7-dbb260785c85",
       "comment": "",
@@ -118,7 +118,7 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[4]/div/input", "xpath:idRelative"],
         ["xpath=//div[4]/div/input", "xpath:position"]
       ],
-      "value": "maureen22"
+      "value": "favour22"
     }, {
       "id": "d8d98f43-82c5-40f6-849d-b73cfdf42f70",
       "comment": "",
@@ -146,7 +146,7 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[5]/div/input", "xpath:idRelative"],
         ["xpath=//div[5]/div/input", "xpath:position"]
       ],
-      "value": "maureen22"
+      "value": "favour22"
     }, {
       "id": "4d5678a0-3b18-48a1-bae3-9bba0eb0e21e",
       "comment": "",
@@ -194,7 +194,7 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div/div/input", "xpath:idRelative"],
         ["xpath=//input", "xpath:position"]
       ],
-      "value": "maureen"
+      "value": "favour"
     }, {
       "id": "deca9c56-7dfd-43c2-9728-e5c441edccc6",
       "comment": "",
@@ -208,7 +208,7 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[2]/div/input", "xpath:idRelative"],
         ["xpath=//div[2]/div/input", "xpath:position"]
       ],
-      "value": "maureen22"
+      "value": "favour22"
     }, {
       "id": "d886a212-614b-4a1e-988d-4ebcbedbef5d",
       "comment": "",
@@ -255,7 +255,7 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[2]/div/input", "xpath:idRelative"],
         ["xpath=//div[2]/div/input", "xpath:position"]
       ],
-      "value": "welcome@22"
+      "value": "favour22"
     }, {
       "id": "0b8a6943-404b-4023-a492-0a441ea8bf7f",
       "comment": "",
@@ -315,7 +315,7 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[2]/div/input", "xpath:idRelative"],
         ["xpath=//div[2]/div/input", "xpath:position"]
       ],
-      "value": "maureen22"
+      "value": "favour22"
     }, {
       "id": "ecc79656-3cc0-4f53-b779-88509931b7d0",
       "comment": "",
@@ -369,7 +369,7 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div/div/input", "xpath:idRelative"],
         ["xpath=//input", "xpath:position"]
       ],
-      "value": "maureen"
+      "value": "favour"
     }, {
       "id": "f9f4a8da-e8ff-4fb3-9db3-c4e617812826",
       "comment": "",
@@ -383,7 +383,7 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[2]/div/input", "xpath:idRelative"],
         ["xpath=//div[2]/div/input", "xpath:position"]
       ],
-      "value": "maureen22"
+      "value": "favour22"
     }, {
       "id": "94f3bac2-7fbb-4ec5-b0db-c14ee98a0006",
       "comment": "",

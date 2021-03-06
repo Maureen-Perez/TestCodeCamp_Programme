@@ -33,7 +33,7 @@
         ["xpath=//form[@id='u_0_a_1W']/div/div/input", "xpath:idRelative"],
         ["xpath=//div/input", "xpath:position"]
       ],
-      "value": "maureenupm@gmail.com"
+      "value": "Wizzy@gmailcom"
     }, {
       "id": "6b1ad2e1-8953-4eb1-95ec-5c763d0f0d78",
       "comment": "",
@@ -47,7 +47,7 @@
         ["xpath=//div[@id='passContainer']/input", "xpath:idRelative"],
         ["xpath=//div[2]/div/input", "xpath:position"]
       ],
-      "value": "welcome@222"
+      "value": "iloveyou22"
     }, {
       "id": "d023aa99-640c-4da5-8d34-04459ae1c349",
       "comment": "",
@@ -145,7 +145,7 @@
         ["xpath=//form[@id='u_0_e_8J']/div/div/input", "xpath:idRelative"],
         ["xpath=//div/input", "xpath:position"]
       ],
-      "value": "maureenupm@gmail.com"
+      "value": "wizzy@gmailcom"
     }, {
       "id": "5f97ce3f-990e-4893-b855-66e8698b9134",
       "comment": "",
@@ -159,7 +159,7 @@
         ["xpath=//div[@id='passContainer']/input", "xpath:idRelative"],
         ["xpath=//div[2]/div/input", "xpath:position"]
       ],
-      "value": "welcome@222"
+      "value": "iloveyou22"
     }, {
       "id": "59a4ec49-6d89-4233-ba31-c121f0e4ee71",
       "comment": "",
