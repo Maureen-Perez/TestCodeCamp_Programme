@@ -25,7 +25,7 @@ public class UserManagementTest {
         //wait for the page to load in 5 seconds
         Thread.sleep(5000);
         //Maximize the browser
-        driver.manage().window().fullscreen();
+        driver.manage().window().maximize();
         System.out.println(driver.getTitle());
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }
