@@ -52,7 +52,7 @@ public class UserManagementTest {
         //click on user Profile
         driver.findElement(By.xpath("/html/body/div[1]/div/div[1]/div/div[2]/div[4]/div[1]/span/div/div[1]/i")).click();
         Thread.sleep(5000);
-        driver.findElement(By.xpath("/html/body/div[1]/div/div[1]/div/div[2]/div[4]/div[2]/div/div[3]/div[1]/div[1]/div/div/div/div/div/div/div/div/div[1]/div/div[3]/div/div[4]/div/div[1]/div[2]/div/div/div/div/span")).click();
+        driver.findElement(By.xpath("/html/body/div[1]/div/div[1]/div/div[2]/div[4]/div[2]/div/div[2]/div[1]/div[1]/div/div/div/div/div/div/div/div/div[1]/div/div[3]/div/div[4]/div/div[1]/div[2]/div/div/div/div")).click();
         if (driver.getCurrentUrl().contains("https://web.facebook.com/?stype=lo&jlou=AffVouhWlFDQ8qnIF5mVZUaqGVcp1lduAnVkEqNy_ud6uB-BhC1aIevBVvxQbnXi2Hl6fBqwWxJG4J2lRAEN7U4h4-U4SOdZ8RinSYyvJAYRCw&smuh=43444&lh=Ac-8WfEWWWSFwbaJe7o")) {
             System.out.println("PASSED - User has successfully logged out");
         } else {
