@@ -64,10 +64,10 @@ public class LoginTests {
         Thread.sleep(5000);
 
         //Click on the Add to cart button
-        driver.findElement(By.xpath("/html/body/div[1]/div/section/div[3]/section/main/section[2]/section/section/section/section/ul/li[15]/div/div/div[2]/form/div[4]/button")).click();
+        driver.findElement(By.xpath("/html/body/div[1]/div/section/div[3]/section/main/section[2]/section/section/section/section/ul/li[10]/div/div/div[2]/form/div[4]/button")).click();
 
         //Click on My Cart
-        driver.findElement(By.xpath("/html/body/div[1]/div/section/div[2]/nav/div[2]/div/div/a[2]")).click();
+        driver.findElement(By.xpath("/html/body/div[1]/div/section/div[2]/nav/div[2]/div/div/a[2]/span[1]")).click();
 
         //Click on Checkout
         driver.findElement(By.xpath("//button[@class='_0a08a_3czMG' and text() = 'Checkout']")).click();
@@ -86,10 +86,10 @@ public class LoginTests {
         //Select iframe that comes up for payment
         WebElement iframe = driver.findElement(By.xpath("//iframe[@id='kpg-frame-component']"));
         driver.switchTo().frame(iframe);
+        Thread.sleep(5000);
 
         //Click on the card option
         driver.findElement(By.xpath("//button[@class = 'dashboard-card__button Card']")).click();
-
 
         //input invalid card details
         driver.findElement(By.xpath("//input[@class = 'card-number input_class' and @id = 'card-number']")).sendKeys("231456677789734");
@@ -109,7 +109,7 @@ public class LoginTests {
         driver.findElement(By.xpath("//button[@class='keypadbutton pin-keypad__button' and text() = '1']")).click();
         driver.findElement(By.xpath("//button[@class='keypadbutton pin-keypad__button' and text() = '5']")).click();
 
-        //Click on PAY NOW
+        //Validate card form
         driver.findElement(By.id("validateCardForm")).click();
 
         //Print error message of card number field
